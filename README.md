@@ -4,7 +4,7 @@ This project focuses on analyzing Netflix data through a Power BI dashboard. The
 
 ## Project Overview
 
-The aim of this project is to explore and understand the Netflix dataset obtained from Kaggle. Through data cleaning, preprocessing, and visualization techniques, we have developed an interactive and informative Power BI dashboard that allows users to gain valuable insights into Netflix's content library, user base, and trends.
+The aim of this project is to explore and understand the Netflix dataset obtained from Kaggle. Through data cleaning, preprocessing, and visualization techniques, I have developed an interactive and informative Power BI dashboard that allows users to gain valuable insights into Netflix's content library, user base, and trends.
 
 ## Dataset
 The Netflix dataset used for this project can be found on Kaggle. You can access the dataset using the following link:
