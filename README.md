@@ -19,7 +19,7 @@ Before importing the dataset into Power BI, please perform data cleaning and pre
 1. **Scorecards**: Overview of key metrics such as total movies, total TV shows, and more.
 2. **Country Distribution**: Visual representation of Netflix content distribution across different countries.
 3. **Total Years Released**: Analysis of the number of movies and TV shows released over the years.
-4. **Ratings by Top Categories**: Ratings breakdown for the top 10 content categories.
+4. **Ratings by Top Categories**: Rating breakdown for the top 10 content categories.
 5. **Top Countries Users**: Display of the top 10 countries with the highest number of Netflix users.
 6. **Genres by Top Titles**: Insights into the genres of the top 10 titles on Netflix.
 7. **Top Directors**: Exploration of the top 20 movie and TV show directors.
