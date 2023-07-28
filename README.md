@@ -6,6 +6,8 @@ This project is my individual endeavor to analyze Netflix data using a Power BI 
 
 The primary objective of this project is to explore and gain a deep understanding of the Netflix dataset retrieved from Kaggle. It's important to note that the dataset has not undergone any cleaning or preprocessing. Instead, I have directly visualized the raw data using Power BI, allowing users to explore and analyze Netflix's content library, user base, and trends in its unprocessed form.
 
+![Dashboard](Netflix%20Customer%20Dashboard.jpg)
+
 ## Dataset
 
 The Netflix dataset used for this project can be found on Kaggle. You can access the dataset using the following link:
